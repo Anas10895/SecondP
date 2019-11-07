@@ -5,9 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("https://abrilveja.files.wordpress.com/2018/12/milky-way-2695569_1920.jpg")
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+.serch{
+       background-color:transparent !important;
+       border:none !important;
+    
 }
