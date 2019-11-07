@@ -64,7 +64,7 @@ export default class App extends Component {
       <div className="App">
 
 
-          <Navbar collapseOnSelect expand="lg" bg="" variant="dark" scrolling fixed="top">
+          <Navbar collapseOnSelect expand="lg" bg="" variant="dark" sticky fixed="top">
 
             <Navbar.Brand href="/">
               <img src="https://www.stickpng.com/assets/images/58429400a6515b1e0ad75acc.png" alt="" height="40"/>
